@@ -28,5 +28,5 @@ The notebook includes visual analysis such as:
 - Scikit-Learn
 - Jupyter Notebook
 
-___# Run jupyter
-Run in jupyter Notebook
+ # Run jupyter
+- Run in jupyter Notebook
